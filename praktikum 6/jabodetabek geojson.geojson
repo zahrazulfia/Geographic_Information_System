@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "jabodetabek geojson",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "nama": "Jakarta", "luas": "661,5 ", "populasi": "10684,9", "tahun": 2024, "GDP": 21166 }, "geometry": { "type": "Point", "coordinates": [ 106.797921842136418, -6.167056966209643 ] } },
+{ "type": "Feature", "id": 1, "properties": { "nama": "Bekasi", "luas": "204,6 ", "populasi": "2,53", "tahun": 2024, "GDP": 2971 }, "geometry": { "type": "Point", "coordinates": [ 106.988286519821997, -6.24741379075833 ] } },
+{ "type": "Feature", "id": 2, "properties": { "nama": "Tangerang", "luas": "1001,86", "populasi": "1,927,815", "tahun": 2024, "GDP": 6949 }, "geometry": { "type": "Point", "coordinates": [ 106.644980381593143, -6.169687915668632 ] } },
+{ "type": "Feature", "id": 3, "properties": { "nama": "Tangerang Selatan", "luas": "164,86", "populasi": "1,429,529 ", "tahun": 2024, "GDP": 21933 }, "geometry": { "type": "Point", "coordinates": [ 106.685933997463792, -6.330655099547087 ] } },
+{ "type": "Feature", "id": 4, "properties": { "nama": "Depok", "luas": "200,29", "populasi": "2163,64", "tahun": 2024, "GDP": 2678 }, "geometry": { "type": "Point", "coordinates": [ 106.816556388457968, -6.409733841526929 ] } },
+{ "type": "Feature", "id": 5, "properties": { "nama": "Bogor", "luas": "2991,78", "populasi": "5,664,537", "tahun": 2024, "GDP": 3493 }, "geometry": { "type": "Point", "coordinates": [ 106.794125764007049, -6.600077220033796 ] } }
+]
+}
